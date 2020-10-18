@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrzej</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
+
 - 🔭 I’m currently working on [webpack-testing](https://github.com/andrev36/webpack-testing)
 
 - 🌱 I’m currently learning **Webpack, Testing, GSAP, ThreeJS, GraphQL**
