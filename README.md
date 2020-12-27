@@ -9,15 +9,27 @@
 
 - 📫 How to reach me **wiadernyandrzej96@gmail.com**
 
-### My projects
+# My projects
 
-- [Ecommerce website (Fullstack Web App)](https://www.ecommercedevandrew.tech/)
+## E-commerce website (Fullstack Web App)
 
-- [Restaurant website (Serverless Web App)](https://master.d2lff88cqai9i2.amplifyapp.com/)
+- [View Website Demo for the E-commerce website](https://www.ecommercedevandrew.tech/)
 
-- [Adopt an animal - MVP - (Web App made from scratch without
-  frameworks, to practice
-  Webpack, Testing, GSAP, ThreeJS)](https://github.com/andrev36/webpack-testing)
+- [Source Code for the E-commerce website](https://github.com/andrev36/ecommerce-public)
+
+## Restaurant website (Serverless Web App)
+
+- [View Website Demo for the Restaurant website](https://master.d2lff88cqai9i2.amplifyapp.com/)
+
+- [Source Code for the Restaurant website](https://github.com/andrev36/restaurant-public)
+
+## Adopt an animal - MVP - (Web App made from scratch without frameworks)
+
+- [View Website Demo for the Adopt an animal website](https://andrev36.github.io/webpack-testing/)
+
+- [Source Code for the Adopt an animal website](https://github.com/andrev36/webpack-testing)
+
+# About me
 
 <p align="left">
                 I'm learning web development for one and a half years. During my journey
@@ -32,7 +44,7 @@
                 projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
