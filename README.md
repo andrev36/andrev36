@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrzej</h1>
 <h3 align="center">A passionate fullstack developer from Poland</h3>
 
-- 🔭 I’m currently working on [vue-symfony-blog](https://github.com/andrev36/vue-symfony-blog)
-
-- 🌱 I’m currently learning **Vue, Vuex, PHP, Symfony, PostgreSQL**
-
 - 👨‍💻 All of my projects are available at [https://www.devandrew.media/](https://www.devandrew.media/)
 
 - 📫 How to reach me **wiadernyandrzej96@gmail.com**
@@ -15,24 +11,28 @@
 
 - [View Website Demo for the E-commerce website](https://www.ecommercedevandrew.tech/)
 
-- [Source Code for the E-commerce website](https://github.com/andrev36/ecommerce-public)
+- [Source Code for the E-commerce website](https://github.com/awiaderny/ecommerce-public)
 
 ## Restaurant website (Serverless Web App)
 
 - [View Website Demo for the Restaurant website](https://master.d2lff88cqai9i2.amplifyapp.com/)
 
-- [Source Code for the Restaurant website](https://github.com/andrev36/restaurant-public)
+- [Source Code for the Restaurant website](https://github.com/awiaderny/restaurant-public)
 
 ## Adopt an animal - MVP - (Web App made from scratch without frameworks)
 
-- [View Website Demo for the Adopt an animal website](https://andrev36.github.io/webpack-testing/)
+- [View Website Demo for the Adopt an animal website](https://awiaderny.github.io/webpack-testing/)
 
-- [Source Code for the Adopt an animal website](https://github.com/andrev36/webpack-testing)
+- [Source Code for the Adopt an animal website](https://github.com/awiaderny/webpack-testing)
+
+## Partially completed project in Vue / Symfony 
+
+- [vue-symfony-blog](https://github.com/awiaderny/vue-symfony-blog)
 
 # About me
 
 <p align="left">
-                I'm learning web development for one and a half years. During my journey
+                I'm learning web development for over two years. During my journey
                 I've worked with technologies like HTML5, CSS3, Javascript
                 (ES5+), Git, React.js, Redux, Typescript, Node.js (Express
                 Framework), npm, Webpack, GSAP, ThreeJS, Bootstrap 4, Material UI, REST/GraphQL APIs,
